@@ -1,0 +1,6 @@
+This is a github repo for Orbis, the RPG marvel.
+Tileloader.py loads the game itself.
+
+Dependencies:
+- python 3
+- pygame
